@@ -1,0 +1,45 @@
+.btn{
+   border-radius: 10px;
+}
+
+body{
+   background-color: azure;
+}
+
+.search{
+   width: 400px;
+   border: 1px solid azure;
+   border-radius:10px;
+   padding-right: 5px;
+   box-shadow: 0px 0px 5px 0px rgba(184,184,180,0.7);
+   background-color: #fff;
+}
+.search span{
+   border: 0;
+   background-color: transparent;
+}
+.search span img{
+   width: 15px;
+   height: auto;
+}
+.search input{
+   border: 0;
+   font-size: 16px;
+   padding: 12px;
+   background-color: transparent;
+}
+.search input:focus{
+   outline: 0;
+   box-shadow: 0 0 0 0;
+}
+.table-border{
+   
+}
+thead{
+   background-color: #063caf;
+   color: #fff;
+}
+.table .btn{
+   color: #fff;
+   background-color: #ee9b00;
+}
